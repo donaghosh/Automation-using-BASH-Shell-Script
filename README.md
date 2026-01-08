@@ -4,3 +4,6 @@ This repository contains source script for below features:
 2. Send a mail to recepients if disk space usage of file system exceeded the threshold.
 3. If any service is not up and running, it will send a mail to the recepients.
 4. It will restart the services which are not running.
+
+# Add executable permission to your script
+chmod +x monitor_script.sh
