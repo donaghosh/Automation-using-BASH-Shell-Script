@@ -7,3 +7,6 @@ This repository contains source script for below features:
 
 # Add executable permission to your script
 chmod +x monitor_script.sh
+
+# Scheduling your script
+0 3 * * * /home/ubuntu/XBorderFlow/sit/monitor_script.sh
