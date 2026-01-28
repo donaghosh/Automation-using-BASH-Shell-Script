@@ -9,4 +9,4 @@ This repository contains source script for below features:
 chmod +x monitor_script.sh
 
 # Scheduling your script
-0 3 * * * /home/ubuntu/XBorderFlow/sit/monitor_script.sh
+0 3 * * * /home/ubuntu/Application/sit/monitor_script.sh
